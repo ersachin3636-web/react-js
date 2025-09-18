@@ -1,10 +1,11 @@
-import Hello from './component/Hello'
+import Fruits from './component/Fruits';
+import Hello from './component/Hello';
 function App() {
   return (
     <div className="App">
-      <Hello/>
+      <Fruits />
     </div>
-  )
+  );
 }
 
 export default App

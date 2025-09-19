@@ -1,11 +1,11 @@
+import Todo from "./components/Todo"
 
-import Form from './component/Form';
 function App() {
   return (
     <div className="App">
-      <Form />
+     <Todo></Todo>
     </div>
-  );
+  )
 }
 
 export default App

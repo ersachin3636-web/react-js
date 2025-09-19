@@ -1,9 +1,9 @@
-import Fruits from './component/Fruits';
-import Hello from './component/Hello';
+
+import Count from './component/Count';
 function App() {
   return (
     <div className="App">
-      <Fruits />
+      <Count />
     </div>
   );
 }
